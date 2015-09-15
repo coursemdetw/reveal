@@ -10,12 +10,12 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh></v>
 </v>
-<v t="amd.20150913232627.2"><vh>@clean index.html (2014)</vh>
+<v t="amd.20150913232627.2"><vh>@clean index.html</vh>
 <v t="amd.20150913232751.1" a="E"><vh>html</vh>
 <v t="amd.20150913232751.2" a="E"><vh>head</vh>
 <v t="amd.20150913232751.3"><vh>title</vh></v>
@@ -111,7 +111,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html (2014)</vh>
+<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
@@ -551,6 +551,7 @@
 <tnodes>
 <t tx="amd.20150913232627.2">@language xml
 @tabwidth -4
+# 2014 version
 @others
 </t>
 <t tx="amd.20150913232631.1"></t>
@@ -948,6 +949,7 @@ vertical: body pane on the botton</t>
 <t tx="amd.20150913232751.9">Chiaming Yen (&lt;a href="http://about.me/chiaming_yen"&gt;http://about.me/chiaming_yen&lt;/a&gt;)</t>
 <t tx="amd.20150913233943.1">@language xml
 @tabwidth -4
+# 2014 version
 @others
 </t>
 <t tx="amd.20150913233943.2">&lt;!doctype html&gt;
