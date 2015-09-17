@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh></v>
@@ -143,7 +143,7 @@
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8" a="E"><vh>body</vh>
+<v t="amd.20150915155634.8"><vh>body</vh>
 <v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -336,7 +336,8 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.2" a="E"><vh>head 標註</vh>
 <v t="amd.20150915211351.3"><vh>title 標註</vh></v>
@@ -350,8 +351,6 @@
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
-<v t="amd.20150915211351.16"><vh>script</vh></v>
-<v t="amd.20150915211351.17"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1031,7 +1030,7 @@ vertical: body pane on the botton</t>
 <t tx="amd.20150915153206.1">2015.09.15
 
 將 2014 的 index.html 與 cadpbw1.html 與 2015 最新的 reveal 框架檔案合併
-此後將以 reveal.html 中的語法為主
+此後將以 v31ref.html 中的語法為主
 
 </t>
 <t tx="amd.20150915155634.1">@language xml
@@ -2351,6 +2350,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/section&gt;</t>
 <t tx="amd.20150915211341.1">@language xml
 @tabwidth -4
+# reveal.js 3.1 版本
 @others
 
 </t>
@@ -2365,16 +2365,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/section&gt;
 				</t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-	</t>
-<t tx="amd.20150915211351.16">&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
- 
-	</t>
-<t tx="amd.20150915211351.17">&lt;script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
     // 啟動 Reveal.
     Reveal.initialize({
     });
 &lt;/script&gt;
-</t>
+	</t>
 <t tx="amd.20150915211351.2">
 &lt;head&gt;
 @others
@@ -2420,5 +2417,12 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				</t>
+<t tx="amd.20150917085040.1">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
 </tnodes>
 </leo_file>
