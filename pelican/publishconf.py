@@ -46,5 +46,5 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015Fall"
+DISQUS_SITENAME = "2015fall"
 #GOOGLE_ANALYTICS = ""
