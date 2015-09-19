@@ -264,6 +264,24 @@
 </v>
 </v>
 </v>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
+<v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
+<v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
+<v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
+<v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
+<v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
+<v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
+<v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
+<v t="ibm.20150918175711.1"><vh>Git 操作</vh></v>
+<v t="ibm.20150918175951.1"><vh>Jupyter 操作</vh></v>
+<v t="ibm.20150918181528.1"><vh>結論</vh></v>
+</v>
+</v>
+<v t="ibm.20150918175403.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
@@ -473,6 +491,13 @@
 </v>
 </vnodes>
 <tnodes>
+<<<<<<< HEAD
+=======
+<t tx="amd.20150913232627.2">@language xml
+@tabwidth -4
+@others
+</t>
+>>>>>>> 1365161e5ee1a3e979d94ab7def658cb9564abe7
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1270,7 +1295,6 @@ This slide has fragments which are also stepped through in the notes window.
 <t tx="amd.20150915161424.1">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
 <t tx="amd.20150915170743.1">@language xml
 @tabwidth -4
-# 這一個 html 為 reveal.js 3.1 版本的參考檔案
 @others
 
 </t>
@@ -1966,6 +1990,10 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
 	&lt;![endif]--&gt;
 &lt;/head&gt;
+<<<<<<< HEAD
+=======
+@others
+>>>>>>> 1365161e5ee1a3e979d94ab7def658cb9564abe7
 &lt;/html&gt;</t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
@@ -1990,8 +2018,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 &lt;/div&gt;
 </t>
-<t tx="amd.20150915211351.6">
-&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="amd.20150915211351.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
@@ -2017,6 +2044,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<<<<<<< HEAD
 <t tx="amd.20150919102209.1">本專案
 
 利用 Jupyter 產生 IPython notebook, 然後整合入 pelican 網誌
@@ -2119,5 +2147,95 @@ import os
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
 ''')
 g.es("pelican 執行完畢")</t>
+=======
+<t tx="ibm.20150918175403.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="ibm.20150918175403.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	</t>
+<t tx="ibm.20150918175403.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="ibm.20150918175403.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;2015CP W1&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+&lt;/html&gt;</t>
+<t tx="ibm.20150918175403.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="ibm.20150918175403.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="ibm.20150918175403.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="ibm.20150918175403.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;計算機程式&lt;/h1&gt;
+    &lt;p&gt;第1週教學內容&lt;/p&gt;		
+&lt;/section&gt;
+	</t>
+<t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程規劃&lt;/h1&gt;
+    &lt;p&gt;教科書&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
+&lt;/section&gt;
+				</t>
+<t tx="ibm.20150918175403.9">&lt;section&gt;
+    &lt;h1&gt;作業規劃&lt;/h1&gt;
+    &lt;p&gt;影片內容&lt;/p&gt;
+    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+&lt;/section&gt;
+				</t>
+<t tx="ibm.20150918175711.1">&lt;section&gt;
+    &lt;h1&gt;Git 操作&lt;/h1&gt;
+    &lt;p&gt;git clone&lt;/p&gt;
+    &lt;p&gt;git config --global user.name&lt;/p&gt;
+    &lt;p&gt;git config --global user.email&lt;/p&gt;
+    &lt;p&gt;git add -A&lt;/p&gt;
+    &lt;p&gt;git commit -m&lt;/p&gt;
+    &lt;p&gt;git push&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="ibm.20150918175951.1">&lt;section&gt;
+    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+    &lt;p&gt;啟動&lt;/p&gt;
+    &lt;p&gt;基本執行&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="ibm.20150918181528.1">&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;自主開放學習&lt;/p&gt;
+    &lt;p&gt;線上教材&lt;/p&gt;
+    &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;</t>
+>>>>>>> 1365161e5ee1a3e979d94ab7def658cb9564abe7
 </tnodes>
 </leo_file>
