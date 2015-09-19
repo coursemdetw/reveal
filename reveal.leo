@@ -13,104 +13,32 @@
 <v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1"><vh>專案說明</vh></v>
+<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
+<v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
+<v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
-<v t="amd.20150913232627.2"><vh>@clean index.html</vh>
-<v t="amd.20150913232751.1" a="E"><vh>html</vh>
-<v t="amd.20150913232751.2" a="E"><vh>head</vh>
-<v t="amd.20150913232751.3"><vh>title</vh></v>
-</v>
-<v t="amd.20150913232751.4" a="E"><vh>body</vh>
-<v t="amd.20150913232751.5" a="E"><vh>div</vh>
-<v t="amd.20150913232751.6" a="E"><vh>div</vh>
-<v t="amd.20150913232751.7"><vh>h2 - title page</vh></v>
-<v t="amd.20150913232751.8" a="E"><vh>p</vh>
-<v t="amd.20150913232751.9"><vh>a</vh></v>
-</v>
-<v t="amd.20150913232751.10"><vh>h2</vh></v>
-<v t="amd.20150913232751.11"><vh>h3</vh>
-<v t="amd.20150913232751.12"><vh>br</vh></v>
-<v t="amd.20150913232751.13"><vh>br</vh></v>
-</v>
-<v t="amd.20150913232751.14"><vh>a</vh></v>
-<v t="amd.20150913232751.15"><vh>h1 - Agenda</vh></v>
-<v t="amd.20150913232751.16"><vh>h3 - Introduction</vh></v>
-<v t="amd.20150913232751.17"><vh>h3</vh></v>
-<v t="amd.20150913232751.18"><vh>h3</vh></v>
-<v t="amd.20150913232751.19"><vh>h3</vh></v>
-<v t="amd.20150913232751.20"><vh>h3</vh></v>
-<v t="amd.20150913232751.21"><vh>h3</vh></v>
-<v t="amd.20150913232751.22"><vh>h1 - Introduction</vh></v>
-<v t="amd.20150913232751.23"><vh>h3</vh></v>
-<v t="amd.20150913232751.24"><vh>h3</vh></v>
-<v t="amd.20150913232751.25"><vh>h3</vh></v>
-<v t="amd.20150913232751.26"><vh>h3</vh></v>
-<v t="amd.20150913232751.27"><vh>h1</vh></v>
-<v t="amd.20150913232751.28"><vh>img</vh></v>
-<v t="amd.20150913232751.29"><vh>h1</vh></v>
-<v t="amd.20150913232751.30"><vh>img</vh></v>
-<v t="amd.20150913232751.31"><vh>h1</vh></v>
-<v t="amd.20150913232751.32"><vh>img</vh></v>
-<v t="amd.20150913232751.33"><vh>h1</vh></v>
-<v t="amd.20150913232751.34"><vh>img</vh></v>
-<v t="amd.20150913232751.35"><vh>img</vh></v>
-<v t="amd.20150913232751.36"><vh>h1</vh></v>
-<v t="amd.20150913232751.37"><vh>h3</vh></v>
-<v t="amd.20150913232751.38"><vh>h3</vh></v>
-<v t="amd.20150913232751.39"><vh>h3</vh></v>
-<v t="amd.20150913232751.40"><vh>h3</vh></v>
-<v t="amd.20150913232751.41"><vh>h3</vh></v>
-<v t="amd.20150913232751.42"><vh>h1</vh></v>
-<v t="amd.20150913232751.43"><vh>img</vh></v>
-<v t="amd.20150913232751.44"><vh>h1</vh></v>
-<v t="amd.20150913232751.45"><vh>img</vh></v>
-<v t="amd.20150913232751.46"><vh>h1</vh></v>
-<v t="amd.20150913232751.47"><vh>img</vh></v>
-<v t="amd.20150913232751.48"><vh>h1</vh></v>
-<v t="amd.20150913232751.49"><vh>img</vh></v>
-<v t="amd.20150913232751.50"><vh>h1</vh></v>
-<v t="amd.20150913232751.51"><vh>img</vh></v>
-<v t="amd.20150913232751.52"><vh>h1</vh></v>
-<v t="amd.20150913232751.53"><vh>img</vh></v>
-<v t="amd.20150913232751.54" a="E"><vh>h2</vh>
-<v t="amd.20150913232751.55"><vh>a</vh></v>
-</v>
-<v t="amd.20150913232751.56"><vh>img</vh></v>
-<v t="amd.20150913232751.57"><vh>h2</vh>
-<v t="amd.20150913232751.58"><vh>a</vh></v>
-</v>
-<v t="amd.20150913232751.59"><vh>img</vh></v>
-<v t="amd.20150913232751.60"><vh>h2</vh>
-<v t="amd.20150913232751.61"><vh>a</vh></v>
-</v>
-<v t="amd.20150913232751.62"><vh>img</vh></v>
-<v t="amd.20150913232751.63"><vh>h2</vh>
-<v t="amd.20150913232751.64"><vh>a</vh></v>
-</v>
-<v t="amd.20150913232751.65"><vh>img</vh></v>
-<v t="amd.20150913232751.66"><vh>h2</vh>
-<v t="amd.20150913232751.67"><vh>a</vh></v>
-</v>
-<v t="amd.20150913232751.68"><vh>img</vh></v>
-<v t="amd.20150913232751.69"><vh>h2</vh></v>
-<v t="amd.20150913232751.70"><vh>img</vh></v>
-<v t="amd.20150913232751.71"><vh>h1</vh></v>
-<v t="amd.20150913232751.72"><vh>h2</vh></v>
-<v t="amd.20150913232751.73"><vh>h2</vh></v>
-<v t="amd.20150913232751.74"><vh>h2</vh></v>
-<v t="amd.20150913232751.75"><vh>h2</vh></v>
-<v t="amd.20150913232751.76"><vh>h2</vh></v>
-<v t="amd.20150913232751.77"><vh>a</vh></v>
-<v t="amd.20150913232751.78"><vh>h1</vh></v>
-<v t="amd.20150913232751.79"><vh>a</vh></v>
+<v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150913232751.80"><vh>script</vh></v>
-<v t="amd.20150913232751.81"><vh>script</vh></v>
-<v t="amd.20150913232751.82"><vh>script</vh></v>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
+<v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
+<v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
+<v t="amd.20150919103923.1"><vh>設定檔案位置</vh></v>
+<v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
+</v>
+<v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
+<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
+<v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
+<v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 </v>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -339,9 +267,6 @@
 <v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.2" a="E"><vh>head 標註</vh>
-<v t="amd.20150915211351.3"><vh>title 標註</vh></v>
-</v>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
@@ -548,11 +473,6 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="amd.20150913232627.2">@language xml
-@tabwidth -4
-# 2014 version
-@others
-</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -629,326 +549,8 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="amd.20150913232631.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="amd.20150913232751.1">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-@others
-&lt;/html&gt;</t>
-<t tx="amd.20150913232751.10">&lt;h2&gt;Chiaming Yen&lt;/h2&gt;
-             </t>
-<t tx="amd.20150913232751.11">&lt;h3&gt;
-@others
-&lt;/h3&gt;
-            </t>
-<t tx="amd.20150913232751.12">Associate Professor&lt;br /&gt;
-                         Department of Mechanical Design Engineering</t>
-<t tx="amd.20150913232751.13">&lt;br /&gt;
-                         National Formosa University, Taiwan
-            </t>
-<t tx="amd.20150913232751.14">&lt;a href="http://about.me/chiaming_yen"&gt;http://about.me/chiaming_yen&lt;/a&gt;
-            &lt;/section&gt;
-    &lt;/section&gt;
- 
-            &lt;section id="agenda"&gt;
-                </t>
-<t tx="amd.20150913232751.15">&lt;h1&gt;Agenda&lt;/h1&gt;
-                    </t>
-<t tx="amd.20150913232751.16">&lt;h3&gt;Introduction&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.17">&lt;h3&gt;Related Works&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.18">&lt;h3&gt;Platform Architecture&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.19">&lt;h3&gt;Functions of PPDS&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.2">
-&lt;head&gt;
-@others
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-    &lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;    
-    &lt;!--Add support for earlier versions of Internet Explorer --&gt;
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-&lt;/head&gt;
- 
-</t>
-<t tx="amd.20150913232751.20">&lt;h3&gt;Conclusions&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.21">&lt;h3&gt;Q &amp; A&lt;/h3&gt;
-            &lt;/section&gt;
- 
-            &lt;section&gt;
-                &lt;section&gt;
-                </t>
-<t tx="amd.20150913232751.22">&lt;h1&gt;Introduction&lt;/h1&gt;
-                    </t>
-<t tx="amd.20150913232751.23">&lt;h3&gt;Python as the first teaching programming language&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.24">&lt;h3&gt;Collaborative product design&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.25">&lt;h3&gt;PaaS to the rescue (OpenShift)&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.26">&lt;h3&gt;Local and cloud IDE&lt;/h3&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.27">&lt;h1&gt;Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.28">&lt;img src="images/python_as_introductory_language.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.29">&lt;h1&gt;Collaborative product design&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.3">
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;2014 iceti presentation&lt;/title&gt;
-</t>
-<t tx="amd.20150913232751.30">&lt;img src="images/cloud_based_collaborative_design.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.31">&lt;h1&gt;PaaS to the rescue (OpenShift)&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.32">&lt;img src="images/openshift_app_types.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.33">&lt;h1&gt;Local and cloud IDE&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.34">&lt;img src="images/leo_ide.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                      </t>
-<t tx="amd.20150913232751.35">&lt;img src="images/cloud_ide.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-            &lt;/section&gt;
-
-            &lt;section&gt;
-                &lt;section&gt;
-                </t>
-<t tx="amd.20150913232751.36">&lt;h1&gt;Related Works&lt;/h1&gt;
-                    </t>
-<t tx="amd.20150913232751.37">&lt;h3&gt;Engineering Cloud from Fujitsu&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.38">&lt;h3&gt;IPython Notebook (Open solution)&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.39">&lt;h3&gt;Pythonanywhere (Closed solution)&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150913232751.40">&lt;h3&gt;Online Python Tutor (CGI)&lt;/h3&gt;
-                    </t>
-<t tx="amd.20150913232751.41">&lt;h3&gt;PySchool.net (Brython)&lt;/h3&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.42">&lt;h1&gt;Engineering Cloud from Fujitsu&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.43">&lt;img src="images/Fujitsu_engineering_cloud.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.44">&lt;h1&gt;IPython notebook&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.45">&lt;img src="images/ipython_notebook.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-                &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.46">&lt;h1&gt;Pythonanywhere&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.47">&lt;img src="images/pythonanywhere.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-              &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.48">&lt;h1&gt;Online Python Tutor&lt;/h1&gt;
-                 &lt;/section&gt;
-                 &lt;section&gt;
-                  </t>
-<t tx="amd.20150913232751.49">&lt;img src="images/online_pythontutor.png"&gt;&lt;/img&gt;
-                 &lt;/section&gt;
-            &lt;/section&gt;
-
-            &lt;section&gt;
-                 &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.5">
-&lt;!-- Wrap the entire slide show in a div using the "reveal" class. --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150913232751.50">&lt;h1&gt;Platform Architecture&lt;/h1&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.51">&lt;img src="images/PPDS_architecture.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-            &lt;/section&gt;
-
-            &lt;section&gt;
-                 &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.52">&lt;h1&gt;Functions of PPDS&lt;/h1&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.53">&lt;img src="images/cmsimply_methods.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.54">&lt;h2&gt;
-@others
-&lt;/h2&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.55">&lt;a href="http://www.cmsimply.com/brython?brython&amp;filename=brython_fourbar3.py"&gt;brython_fourbar.py&lt;/a&gt;</t>
-<t tx="amd.20150913232751.56">&lt;img src="images/fourbar_simulation.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.57">&lt;h2&gt;
-@others
-&lt;/h2&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.58">&lt;a href="http://www.cmsimply.com/brython?brython&amp;filename=spur1.py"&gt;spur.py&lt;/a&gt;</t>
-<t tx="amd.20150913232751.59">&lt;img src="images/spur.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.6">
-&lt;!-- Wrap all slides in a single "slides" class --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150913232751.60">&lt;h2&gt;
-@others
-&lt;/h2&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.61">&lt;a href="http://www.cmsimply.com/brython?filename=twolink1.py"&gt;twolink robot&lt;/a&gt;</t>
-<t tx="amd.20150913232751.62">&lt;img src="images/twolink.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.63">&lt;h2&gt;
-@others
-&lt;/h2&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.64">&lt;a href="http://www.cmsimply.com/brython?filename=brython_canvas1.py"&gt;STL file Viewer&lt;/a&gt;</t>
-<t tx="amd.20150913232751.65">&lt;img src="images/stl_viewer.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.66">&lt;h2&gt;
-@others
-&lt;/h2&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.67">&lt;a href="http://www.cmsimply.com/brython?filename=threejs_robot2.py"&gt;Three.js Robot&lt;/a&gt;</t>
-<t tx="amd.20150913232751.68">&lt;img src="images/threejs_robot.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.69">&lt;h2&gt;PTC Creo Web-based Pro/Web.Link fourbar assembly&lt;/h2&gt;
-                &lt;/section&gt;
-                 &lt;section&gt;
-                     </t>
-<t tx="amd.20150913232751.7">
-
-&lt;!-- ALL SLIDES GO HERE --&gt;
-&lt;!-- Each section element contains an individual slide --&gt;
-&lt;section id="title page"&gt;
-&lt;section&gt;
-    &lt;h2&gt;Cloud-based Mechanical Design oriented Python program development system &lt;/h2&gt;
-    </t>
-<t tx="amd.20150913232751.70">&lt;img src="images/creo_fourbar_auto_assemble.png"&gt;&lt;/img&gt;
-                &lt;/section&gt;
-
-            &lt;/section&gt;
-
-            &lt;section&gt;
-                &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.71">&lt;h1&gt;Conclusions&lt;/h1&gt;
-                 &lt;/section&gt;
-                &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.72">&lt;h2&gt;A Cloud-based Mechanical Design oriented PPDS is implemented.&lt;/h2&gt;
-                 &lt;/section&gt;
-                &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.73">&lt;h2&gt;No local Python installation needed.&lt;/h2&gt;
-                 &lt;/section&gt;
-                &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.74">&lt;h2&gt;Local programs can be synchronous with cloud site and version control systems.&lt;/h2&gt;
-                 &lt;/section&gt;
-                &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.75">&lt;h2&gt;Basic collaborative programs development can be achieved.&lt;/h2&gt;
-                 &lt;/section&gt;
-                &lt;section&gt;
-                    </t>
-<t tx="amd.20150913232751.76">&lt;h2&gt;CMSimply is released under GPL license v3.0&lt;/h2&gt;
-                     </t>
-<t tx="amd.20150913232751.77">&lt;a href="http://www.cmsimply.com"&gt;http://www.cmsimply.com&lt;/a&gt;
-                 &lt;/section&gt;
-            &lt;/section&gt;
-
-            &lt;section&gt;
-                </t>
-<t tx="amd.20150913232751.78">&lt;h1&gt;Q &amp; A&lt;/h1&gt;
-                </t>
-<t tx="amd.20150913232751.79">&lt;a href="http://about.me/chiaming_yen"&gt;http://about.me/chiaming_yen&lt;/a&gt;
-            &lt;/section&gt;
-
-            </t>
-<t tx="amd.20150913232751.8">&lt;p&gt;
-@others
-&lt;/p&gt;
-            &lt;/section&gt;
-            &lt;section&gt;
-             </t>
-<t tx="amd.20150913232751.80">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-    </t>
-<t tx="amd.20150913232751.81">&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
- 
-    </t>
-<t tx="amd.20150913232751.82">&lt;script&gt;
-        // Required, even if empty.
-        Reveal.initialize({
-        });
-    &lt;/script&gt;
-</t>
-<t tx="amd.20150913232751.9">Chiaming Yen (&lt;a href="http://about.me/chiaming_yen"&gt;http://about.me/chiaming_yen&lt;/a&gt;)</t>
 <t tx="amd.20150913233943.1">@language xml
 @tabwidth -4
-# 2014 version
 @others
 </t>
 <t tx="amd.20150913233943.2">&lt;!doctype html&gt;
@@ -1035,7 +637,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="amd.20150915155634.1">@language xml
 @tabwidth -4
-# reveal.js 3.1 版本
 @others
 
 </t>
@@ -2350,13 +1951,21 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/section&gt;</t>
 <t tx="amd.20150915211341.1">@language xml
 @tabwidth -4
-# reveal.js 3.1 版本
 @others
 
 </t>
 <t tx="amd.20150915211351.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
-@others
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
 &lt;/html&gt;</t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
@@ -2372,22 +1981,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     });
 &lt;/script&gt;
 	</t>
-<t tx="amd.20150915211351.2">
-&lt;head&gt;
-@others
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
- 
-</t>
-<t tx="amd.20150915211351.3">
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-</t>
 <t tx="amd.20150915211351.4">&lt;body&gt;
 @others
 &lt;/body&gt;
@@ -2424,5 +2017,107 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<t tx="amd.20150919102209.1">本專案
+
+利用 Jupyter 產生 IPython notebook, 然後整合入 pelican 網誌
+
+利用 github pages 在 github.io 網站上伺服網頁資料
+
+利用 reveal.js 產生投影片
+
+利用 pelican 與 Markdown 產生網誌文章
+
+利用 disqus 建立互動留言系統</t>
+<t tx="amd.20150919102541.1">在 Anaconda 3 中只要
+
+    pip install pelican Markdown 
+
+安裝 pelican 與 Markdown Python 模組即可
+
+若是在 Ubuntu 中則可以透過
+
+    sudo pip3 install pelican Markdown 
+
+安裝 pelican 與 Markdown Python 模組</t>
+<t tx="amd.20150919102739.1">主要為 reveal.js 的簡報目錄架構, 其他子目錄為
+
+images - 存放簡報與 pelican 網誌所需要的影像檔案
+
+pelican - 存放 pelican 專案資料檔, 並且設法讓 pelican 所產生的 output 檔案直接存放到上層 reveal.js 根目錄
+
+notebook - 存放 Jupyter 的 IPython notebook 檔案, 然後再由 pelican 設定, 將內容放入 blog 文章中
+
+</t>
+<t tx="amd.20150919103341.1">REM start.bat 中 取電腦 IP 與 Jupyter 啟動
+
+REM 取 IPV4 IP address
+for /f "delims=[] tokens=2" %%a in ('ping -4 %computername% -n 1 ^| findstr "["') do (set thisip=%%a)
+REM echo %thisip%
+REM 取 IPV6 IP address
+REM for /f "delims=[] tokens=2" %%a in ('ping %computername% -n 1 ^| findstr "["') do (set thisip=%%a)
+REM echo %thisip%
+REM 啟動 Jupyter
+cd notebook
+start %Disk%:\Anaconda3\python.exe "%Disk%:\Anaconda3\Scripts\ipython-script.py" notebook --ip=%thisip% --certfile=%Disk%:\home\ssl_cert.pem --profile=nbserver</t>
+<t tx="amd.20150919103357.1">打算利用
+
+pelican pelican -o ./../ -s publishconf.py
+
+-o 指定 ouput 所在目錄, 這裡使用上一層目錄, 
+
+-s 則指定 setting, 這裡採用 publishconf.py 中的設定
+
+將位於專案中 pelican 目錄內的 .md 檔案, 轉為 html 網誌格式, 然後存在 reveal.js 的架構目錄中
+
+也就是 index.html 是由 pelican 控制</t>
+<t tx="amd.20150919103428.1"></t>
+<t tx="amd.20150919103923.1">home/.ipython/profile_nbserver/ipython_notebook_config.py
+
+內容為:
+
+# Password to use for web authentication
+c = get_config()
+# password is  "2015cp"
+c.NotebookApp.password = u'sha1:864c0bcdb94e:8a396ef692ef3cc552177f1b1c48cec70c7a32df'
+c.NotebookApp.port = 8888
+
+產生 password 的程式碼:
+
+from IPython.lib import passwd
+passwd()
+
+</t>
+<t tx="amd.20150919104249.1">@language python
+# show 出 ipython notebook 所使用的 profile 目錄
+# 這裡應該會傳回 {'location': 'y:\\home\\.ipython\\profile_nbserver'}
+# 表示 custom.js 位於 'y:\\home\\.ipython\\profile_nbserver\\static\\custom'
+'''在 custom.js 中加入
+require(["base/js/events"], function (events) {
+    events.on("app_initialized.NotebookApp", function () {
+    /* load your extension here */
+    IPython.load_extensions('read-only');
+    });
+});
+就可以自動導入'y:\\home\\.ipython\\nbextensions\read-only.js' 延伸檔案
+read-only toggle 為 Alt+R
+'''
+# 以下為操作方法
+'''當使用者選擇某一 cell, 然後按下 Alt+R, 則 cell 內原本為灰色將會變成白色, 表示
+cell 為 read only
+''''''
+import IPython
+ip=IPython.get_ipython()
+ip.config.ProfileDir </t>
+<t tx="amd.20150919112415.1">使用 Vimeo</t>
+<t tx="amd.20150919112710.1"></t>
+<t tx="amd.20150919113340.1"></t>
+<t tx="amd.20150919113957.1"></t>
+<t tx="amd.20150919114010.1"></t>
+<t tx="amd.20150919120205.1"></t>
+<t tx="amd.20150919124128.1">@language python
+import os
+os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
+''')
+g.es("pelican 執行完畢")</t>
 </tnodes>
 </leo_file>
