@@ -264,7 +264,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -282,7 +282,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -491,6 +491,10 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="amd.20150913232627.2">@language xml
+@tabwidth -4
+@others
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1985,7 +1989,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 &lt;/html&gt;
-=======
 &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
